@@ -24,7 +24,14 @@ A modern, visually enhanced Snake game built with **Python** and **Pygame**, fea
 
 ## 🖥️ Screenshots
 
-> *(You can add screenshots later by uploading images and linking them here)*
+> ![Screenshot (1)](https://github.com/user-attachments/assets/2e423657-9b4e-4b01-b92f-cd712304db78)
+
+> ![Screenshot (2)](https://github.com/user-attachments/assets/0b73f531-8a93-405b-9f87-d951c737a86e)
+
+> ![Screenshot (3)](https://github.com/user-attachments/assets/99b76c6d-94b0-49bd-a0bd-d8d37cd5d003)
+
+
+
 
 ---
 
