@@ -1,9 +1,3 @@
-Absolutely, Athul! Below is a clean and professional **README.md** file for your **Elite Snake** game, styled for GitHub.
-
----
-
-### ✅ README.md (Copy & Save this as `README.md` in your project folder)
-
 
 # 🐍 Elite Snake - Next Gen Gaming
 
@@ -95,7 +89,7 @@ pip install pygame
 ```
 snake-game/
 │
-├── snake_game.py         # Main game file
+├── main.py         # Main game file
 ├── snake_highscore.txt   # High score storage (auto-created)
 ├── README.md             # This file
 └── (Optionally add assets like sounds/images)
@@ -115,20 +109,7 @@ Created with ❤️ by [Athulkrishna-10](https://github.com/Athulkrishna-10)
 
 ---
 
-````
 
----
 
-### ✅ What Next?
-
-1. Save the file above as `README.md` in your project directory.
-2. Then run:
-
-```bash
-git add README.md
-git commit -m "Add detailed README"
-git push
-````
-
-Let me know if you'd like a badge, GIF recording, or screenshot added!
+## Thank You😊
 
